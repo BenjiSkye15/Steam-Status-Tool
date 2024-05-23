@@ -1,0 +1,14 @@
+C:\Users\Benji Skye\source\repos\SST\SST\obj\Debug\net8.0\SST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benji Skye\source\repos\SST\SST\obj\Debug\net8.0\SST.AssemblyInfoInputs.cache
+C:\Users\Benji Skye\source\repos\SST\SST\obj\Debug\net8.0\SST.AssemblyInfo.cs
+C:\Users\Benji Skye\source\repos\SST\SST\obj\Debug\net8.0\SST.csproj.CoreCompileInputs.cache
+C:\Users\Benji Skye\source\repos\SST\SST\bin\Debug\net8.0\SST.exe
+C:\Users\Benji Skye\source\repos\SST\SST\bin\Debug\net8.0\SST.deps.json
+C:\Users\Benji Skye\source\repos\SST\SST\bin\Debug\net8.0\SST.runtimeconfig.json
+C:\Users\Benji Skye\source\repos\SST\SST\bin\Debug\net8.0\SST.dll
+C:\Users\Benji Skye\source\repos\SST\SST\bin\Debug\net8.0\SST.pdb
+C:\Users\Benji Skye\source\repos\SST\SST\obj\Debug\net8.0\SST.dll
+C:\Users\Benji Skye\source\repos\SST\SST\obj\Debug\net8.0\refint\SST.dll
+C:\Users\Benji Skye\source\repos\SST\SST\obj\Debug\net8.0\SST.pdb
+C:\Users\Benji Skye\source\repos\SST\SST\obj\Debug\net8.0\SST.genruntimeconfig.cache
+C:\Users\Benji Skye\source\repos\SST\SST\obj\Debug\net8.0\ref\SST.dll

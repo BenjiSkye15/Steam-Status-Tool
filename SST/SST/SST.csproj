@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationIcon>sst.ico</ApplicationIcon>
+    <Title>SST</Title>
+    <Version>1.0.0</Version>
+    <Company>BenjiSkye15</Company>
+    <Authors>BenjiSkye15</Authors>
+    <Product>SST</Product>
+    <PackageIcon>sst.png</PackageIcon>
+    <PackageId>SST</PackageId>
+    <PackageProjectUrl>https://github.com/BenjiSkye15/Steam-Status-Tool</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/BenjiSkye15/Steam-Status-Tool/tree/main/Code</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="sst.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\Documents\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\..\..\..\Pictures\sst.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
